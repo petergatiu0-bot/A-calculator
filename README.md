@@ -1,2 +1,2 @@
-# A-calculator
+# A-Calculator
 A simple responsive calculator
